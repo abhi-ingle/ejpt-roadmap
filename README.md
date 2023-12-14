@@ -33,7 +33,8 @@ Total Time Commitment:
 |    | Passive Recon: https://tryhackme.com/room/passiverecon| 1.5 hours       | [ ]        |
 |    | Active Recon: https://tryhackme.com/room/activerecon| 1.5 hours      | [ ]        |
 |    | Nmap: https://tryhackme.com/room/furthernmap | 2 hours      | [ ]        |
-| Blogs:  | Active vs Passive Recon: https://medium.com/@twistedcircuits/active-vs-passive-reconnaissance-understanding-the-difference-84d7c6d624b7| 20 mins       | [ ]        |
+| Blogs:  | Ethical Hacking: 5 Phases, Techniques, and Tools: https://medium.com/@ajithchandranr/ethical-hacking-5-phases-techniques-and-tools-e760d092f70e| 20 mins       | [ ]        |
+|  | Active vs Passive Recon: https://medium.com/@twistedcircuits/active-vs-passive-reconnaissance-understanding-the-difference-84d7c6d624b7| 20 mins       | [ ]        |
 |    | Understanding Reconnaissance and Foorprinting  in Ethical Hacking: https://osintteam.blog/understanding-reconnaissance-and-footprinting-in-ethical-hacking-ff1a92a5a619| 20 mins       | [ ]        |
 |    | CompTIA Security+: Vulnerability Scanning and Penetration Testing: https://jaimelightfoot.com/blog/comptia-security-vulnerability-scanning-and-penetration-testing/| 20 mins       | [ ]        |
 |    | Nmap: https://www.freecodecamp.org/news/what-is-nmap-and-how-to-use-it-a-tutorial-for-the-greatest-scanning-tool-of-all-time/| 1 hour      | [ ]        |
