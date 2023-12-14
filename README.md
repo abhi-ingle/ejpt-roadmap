@@ -22,27 +22,14 @@ The eJPT preparation roadmap can help you prepare for the exam in 2 months. The 
 
 ## Week 1
 
-Planned:
-- Assessment Methodologies - Information Gathering
-- Assessment Methodologies - Footprinting & Scanning
-
-
-### Day 1
-
 Total Time Commitment: 
 
 | Planned Content | Task                                          | Time Required | Completed |
 |-----|-----------------------------------------------|---------------|------------|
-| PTS   | Assessment Methodologies-Information Gathering- Introduction                 | 07 mins       | [ ]        |
-|     | Introduction to Information Gathering | 10 mins       | [ ]        |
-|     | Passive Info Gathering - Website Recon & Footprinting  | 21 mins     | [ ]        |
-|     | Passive Info Gathering - Whois Enumeration                | 08 mins             | [ ]        |
-|     | Passive Info Gathering - Website Footprinting with Netcraft                  | 11 mins            | [ ]        |
-|     | Passive Info Gathering - DNS Recon| 14 mins            | [ ]        |
-|     | Passive Info Gathering - WAF With wafw00f                  | 08 mins             | [ ]        |
-|     | Passive Info Gathering - Subdomain Enumeration with Sublist3r     |12 mins|  [ ]        |
-|     | Passive Info Gathering - Google Dorks     |23 mins|  [ ]        |
-|     | Passive Info Gathering - Email Harvesting with TheHarvester     |13 mins|  [ ]        |
+| PTS   | Assessment Methodologies-Information Gathering  | 07 mins       |[ ]        |
+|    |  Assesment Methodologies - Footprinting and Scanning | 10 mins       | [ ]        |
+| Tryhackme   | Passive Recon: https://tryhackme.com/room/passiverecon| 10 mins       | [ ]        |
+|    | Active Recon: https://tryhackme.com/room/activerecon| 10 mins       | [ ]        |
 
 
 
