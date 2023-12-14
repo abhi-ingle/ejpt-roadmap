@@ -22,20 +22,21 @@ The eJPT preparation roadmap can help you prepare for the exam in 2 months. The 
 
 ## Week 1
 
-| Planned Content | Task                                          |Completed |
-|-----|-----------------------------------------------|---------------|------------|
-| PTS:  | Assessment Methodologies-Information Gathering  | [ ]        |
-|    |  Assesment Methodologies - Footprinting and Scanning | [ ]        |
-| Tryhackme:   | Hacker Methodology: https://tryhackme.com/room/hackermethodology|  [ ]        |
-|    | Intro To Research: https://tryhackme.com/room/introtoresearch|  [ ]        |
-|    | Passive Recon: https://tryhackme.com/room/passiverecon|  [ ]        |
-|    | Active Recon: https://tryhackme.com/room/activerecon|   [ ]        |
-|    | Nmap: https://tryhackme.com/room/furthernmap | [ ]        |
-| Blogs:  | Ethical Hacking: 5 Phases, Techniques, and Tools: https://medium.com/@ajithchandranr/ethical-hacking-5-phases-techniques-and-tools-e760d092f70e|  [ ]        |
-|  | Active vs Passive Recon: https://medium.com/@twistedcircuits/active-vs-passive-reconnaissance-understanding-the-difference-84d7c6d624b7|  [ ]        |
-|    | Understanding Reconnaissance and Foorprinting  in Ethical Hacking: https://osintteam.blog/understanding-reconnaissance-and-footprinting-in-ethical-hacking-ff1a92a5a619| [ ]        |
-|    | CompTIA Security+: Vulnerability Scanning and Penetration Testing: https://jaimelightfoot.com/blog/comptia-security-vulnerability-scanning-and-penetration-testing/|  [ ]        |
-|    | Nmap: https://www.freecodecamp.org/news/what-is-nmap-and-how-to-use-it-a-tutorial-for-the-greatest-scanning-tool-of-all-time/| [ ]        |
+| Planned Content | Task                                               | Completed |
+| --------------- | -------------------------------------------------- | --------- |
+| PTS             | Assessment Methodologies-Information Gathering   | [ ]       |
+|                | Assesment Methodologies - Footprinting and Scanning| [ ]       |
+| Tryhackme       | Hacker Methodology: [link](https://tryhackme.com/room/hackermethodology)| [ ]       |
+|                | Intro To Research: [link](https://tryhackme.com/room/introtoresearch)| [ ]       |
+|                | Passive Recon: [link](https://tryhackme.com/room/passiverecon)| [ ]       |
+|                | Active Recon: [link](https://tryhackme.com/room/activerecon)| [ ]       |
+|                | Nmap: [link](https://tryhackme.com/room/furthernmap) | [ ]       |
+| Blogs           | Ethical Hacking: 5 Phases, Techniques, and Tools: [link](https://medium.com/@ajithchandranr/ethical-hacking-5-phases-techniques-and-tools-e760d092f70e)| [ ]       |
+|                | Active vs Passive Recon: [link](https://medium.com/@twistedcircuits/active-vs-passive-reconnaissance-understanding-the-difference-84d7c6d624b7)| [ ]       |
+|                | Understanding Reconnaissance and Foorprinting in Ethical Hacking: [link](https://osintteam.blog/understanding-reconnaissance-and-footprinting-in-ethical-hacking-ff1a92a5a619)| [ ]       |
+|                | CompTIA Security+: Vulnerability Scanning and Penetration Testing: [link](https://jaimelightfoot.com/blog/comptia-security-vulnerability-scanning-and-penetration-testing/)| [ ]       |
+|                | Nmap: [link](https://www.freecodecamp.org/news/what-is-nmap-and-how-to-use-it-a-tutorial-for-the-greatest-scanning-tool-of-all-time/)| [ ]       |
+
 
 
 <hr>
