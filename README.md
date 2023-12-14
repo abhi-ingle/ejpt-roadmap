@@ -28,53 +28,38 @@ Total Time Commitment:
 |-----|-----------------------------------------------|---------------|------------|
 | PTS:  | Assessment Methodologies-Information Gathering  | <This is left>        |[ ]        |
 |    |  Assesment Methodologies - Footprinting and Scanning | <This is left>      | [ ]        |
-| Tryhackme:   | Passive Recon: https://tryhackme.com/room/passiverecon| 1.5 hours       | [ ]        |
+| Tryhackme:   | Hacker Methodology: https://tryhackme.com/room/hackermethodology| 30 mins       | [ ]        |
+|    | Intro To Research: https://tryhackme.com/room/introtoresearch| 1.5 hours       | [ ]        |
+|    | Passive Recon: https://tryhackme.com/room/passiverecon| 1.5 hours       | [ ]        |
 |    | Active Recon: https://tryhackme.com/room/activerecon| 1.5 hours      | [ ]        |
+|    | Nmap: https://tryhackme.com/room/furthernmap | 2 hours      | [ ]        |
 | Blogs:  | Active vs Passive Recon: https://medium.com/@twistedcircuits/active-vs-passive-reconnaissance-understanding-the-difference-84d7c6d624b7| 20 mins       | [ ]        |
 |    | Understanding Reconnaissance and Foorprinting  in Ethical Hacking: https://osintteam.blog/understanding-reconnaissance-and-footprinting-in-ethical-hacking-ff1a92a5a619| 20 mins       | [ ]        |
 |    | CompTIA Security+: Vulnerability Scanning and Penetration Testing: https://jaimelightfoot.com/blog/comptia-security-vulnerability-scanning-and-penetration-testing/| 20 mins       | [ ]        |
+|    | Nmap: https://www.freecodecamp.org/news/what-is-nmap-and-how-to-use-it-a-tutorial-for-the-greatest-scanning-tool-of-all-time/| 1 hour      | [ ]        |
 
 
 
 
-### Day 2
+<hr>
 
+## Week 2
 
+Total Time Commitment: 
 
-
-
-### Day 8-14
-
-
-| Day | Task                                          | Time Required | Completed |
+| Planned Content | Task                                          | Time Required | Completed |
 |-----|-----------------------------------------------|---------------|------------|
-| 1   | Review eJPT study material                    | 2 hours       | [ ]        |
-|     | Complete TryHackMe room: Introduction to Network Security | 3 hours       | [ ]        |
-|     | Read Chapter 1 of additional reading material  | 1.5 hours     | [ ]        |
-|     | Note-taking in preferred app                  | -             | [ ]        |
-| 2   | Practice subnetting exercises                 | 2.5 hours     | [ ]        |
-|     | Complete TryHackMe room: Basic Network Scan Techniques | 4 hours       | [ ]        |
-|     | Read Chapter 2 of additional reading material  | 1.5 hours     | [ ]        |
-|     | Note-taking in preferred app                  | -             | [ ]        |
-| 3   | Explore eJPT labs                              | 2 hours       | [ ]        |
-|     | Complete TryHackMe room: Web Application Security Fundamentals | 3.5 hours     | [ ]        |
-|     | Read Chapter 3 of additional reading material  | 2 hours       | [ ]        |
-|     | Note-taking in preferred app                  | -             | [ ]        |
-| 4   | Mock exam simulation                          | 4 hours       | [ ]        |
-|     | Review incorrect answers and study weak areas | 2.5 hours     | [ ]        |
-|     | Complete TryHackMe room: Exploiting Simple Buffer Overflows | 3 hours       | [ ]        |
-|     | Note-taking in preferred app                  | -             | [ ]        |
-| 5   | Practice subnetting exercises                 | 2.5 hours     | [ ]        |
-|     | Complete TryHackMe room: Basic Network Scan Techniques | 4 hours       | [ ]        |
-|     | Read Chapter 2 of additional reading material  | 1.5 hours     | [ ]        |
-|     | Note-taking in preferred app                  | -             | [ ]        |
-| 6   | Explore eJPT labs                              | 2 hours       | [ ]        |
-|     | Complete TryHackMe room: Web Application Security Fundamentals | 3.5 hours     | [ ]        |
-|     | Read Chapter 3 of additional reading material  | 2 hours       | [ ]        |
-|     | Note-taking in preferred app                  | -             | [ ]        |
-| 7   | Mock exam simulation                          | 4 hours       | [ ]        |
-|     | Review incorrect answers and study weak areas | 2.5 hours     | [ ]        |
-|     | Complete TryHackMe room: Exploiting Simple Buffer Overflows | 3 hours       | [ ]        |
-|     | Note-taking in preferred app                  | -             | [ ]        |
+| PTS:  | Assessment Methodologies-Enumeration  | <This is left>        |[ ]        |
+|   TryHackme |   | <This is left>      | [ ]        |
+
+
+
+
+
+
+
+
+
+
 
 
