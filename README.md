@@ -18,9 +18,18 @@ The eJPT preparation roadmap can help you prepare for the exam in 2 months. The 
 
 ## Exam Preparation Checklist
 
-### Day 1-7
+<hr>
+
+## Week 1
+
+Planned:
+- Assessment Methodologies - Information Gathering
+- Assessment Methodologies - Footprinting & Scanning
 
 
+### Day 1
+
+Total Time Commitment: 
 
 | Planned Content | Task                                          | Time Required | Completed |
 |-----|-----------------------------------------------|---------------|------------|
@@ -34,10 +43,12 @@ The eJPT preparation roadmap can help you prepare for the exam in 2 months. The 
 |     | Passive Info Gathering - Subdomain Enumeration with Sublist3r     |12 mins|  [ ]        |
 |     | Passive Info Gathering - Google Dorks     |23 mins|  [ ]        |
 |     | Passive Info Gathering - Email Harvesting with TheHarvester     |13 mins|  [ ]        |
-| TryHackMe   | Practice subnetting exercises                 | 2.5 hours     | [ ]        |
-|     | Complete TryHackMe room: Basic Network Scan Techniques | 4 hours       | [ ]        |                | -             | [ ]        |
-| Blogs   | Practice subnetting exercises                 | 2.5 hours     | [ ]        |
-|     | Complete TryHackMe room: Basic Network Scan Techniques | 4 hours       | [ ]        |                | -             | [ ]        |
+
+
+
+
+### Day 2
+
 
 
 
