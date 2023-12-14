@@ -26,11 +26,11 @@ Total Time Commitment:
 
 | Planned Content | Task                                          | Time Required | Completed |
 |-----|-----------------------------------------------|---------------|------------|
-| PTS   | Assessment Methodologies-Information Gathering  | <This is left>        |[ ]        |
+| PTS:  | Assessment Methodologies-Information Gathering  | <This is left>        |[ ]        |
 |    |  Assesment Methodologies - Footprinting and Scanning | <This is left>      | [ ]        |
-| Tryhackme   | Passive Recon: https://tryhackme.com/room/passiverecon| 1.5 hours mins       | [ ]        |
+| Tryhackme:   | Passive Recon: https://tryhackme.com/room/passiverecon| 1.5 hours       | [ ]        |
 |    | Active Recon: https://tryhackme.com/room/activerecon| 1.5 hours      | [ ]        |
-| Blogs   | Active vs Passive Recon: https://medium.com/@twistedcircuits/active-vs-passive-reconnaissance-understanding-the-difference-84d7c6d624b7| 20 mins       | [ ]        |
+| Blogs:  | Active vs Passive Recon: https://medium.com/@twistedcircuits/active-vs-passive-reconnaissance-understanding-the-difference-84d7c6d624b7| 20 mins       | [ ]        |
 |    | Understanding Reconnaissance and Foorprinting  in Ethical Hacking: https://osintteam.blog/understanding-reconnaissance-and-footprinting-in-ethical-hacking-ff1a92a5a619| 20 mins       | [ ]        |
 |    | CompTIA Security+: Vulnerability Scanning and Penetration Testing: https://jaimelightfoot.com/blog/comptia-security-vulnerability-scanning-and-penetration-testing/| 20 mins       | [ ]        |
 
