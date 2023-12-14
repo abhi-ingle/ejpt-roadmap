@@ -24,7 +24,7 @@ The eJPT preparation roadmap can help you prepare for the exam in 2 months. The 
 
 | Planned Content | Task                                               | Completed |
 | --------------- | -------------------------------------------------- | --------- |
-| PTS             | Assessment Methodologies-Information Gathering   | [ ]       |
+| Penetration Testing Student Course             | Assessment Methodologies - Information Gathering   | [ ]       |
 |                | Assesment Methodologies - Footprinting and Scanning| [ ]       |
 | Tryhackme       |  [Hacker Methodology](https://tryhackme.com/room/hackermethodology)| [ ]       |
 |                |  [Intro To Research](https://tryhackme.com/room/introtoresearch)| [ ]       |
