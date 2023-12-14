@@ -18,28 +18,43 @@ The eJPT preparation roadmap can help you prepare for the exam in 2 months. The 
 
 ## Exam Preparation Checklist
 
+### Day 1-7
+
 | Day | Task                                          | Time Required | Completed |
 |-----|-----------------------------------------------|---------------|------------|
 | 1   | Review eJPT study material                    | 2 hours       | [ ]        |
 |     | Complete TryHackMe room: Introduction to Network Security | 3 hours       | [ ]        |
 |     | Read Chapter 1 of additional reading material  | 1.5 hours     | [ ]        |
 |     | Note-taking in preferred app                  | -             | [ ]        |
-|-----|-----------------------------------------------|---------------|------------|
 | 2   | Practice subnetting exercises                 | 2.5 hours     | [ ]        |
 |     | Complete TryHackMe room: Basic Network Scan Techniques | 4 hours       | [ ]        |
 |     | Read Chapter 2 of additional reading material  | 1.5 hours     | [ ]        |
 |     | Note-taking in preferred app                  | -             | [ ]        |
-|-----|-----------------------------------------------|---------------|------------|
 | 3   | Explore eJPT labs                              | 2 hours       | [ ]        |
 |     | Complete TryHackMe room: Web Application Security Fundamentals | 3.5 hours     | [ ]        |
 |     | Read Chapter 3 of additional reading material  | 2 hours       | [ ]        |
 |     | Note-taking in preferred app                  | -             | [ ]        |
-|-----|-----------------------------------------------|---------------|------------|
 | 4   | Mock exam simulation                          | 4 hours       | [ ]        |
 |     | Review incorrect answers and study weak areas | 2.5 hours     | [ ]        |
 |     | Complete TryHackMe room: Exploiting Simple Buffer Overflows | 3 hours       | [ ]        |
 |     | Note-taking in preferred app                  | -             | [ ]        |
-|-----|-----------------------------------------------|---------------|------------|
-<!-- Continue the pattern for additional days -->
+| 5   | Practice subnetting exercises                 | 2.5 hours     | [ ]        |
+|     | Complete TryHackMe room: Basic Network Scan Techniques | 4 hours       | [ ]        |
+|     | Read Chapter 2 of additional reading material  | 1.5 hours     | [ ]        |
+|     | Note-taking in preferred app                  | -             | [ ]        |
+| 6   | Explore eJPT labs                              | 2 hours       | [ ]        |
+|     | Complete TryHackMe room: Web Application Security Fundamentals | 3.5 hours     | [ ]        |
+|     | Read Chapter 3 of additional reading material  | 2 hours       | [ ]        |
+|     | Note-taking in preferred app                  | -             | [ ]        |
+| 7   | Mock exam simulation                          | 4 hours       | [ ]        |
+|     | Review incorrect answers and study weak areas | 2.5 hours     | [ ]        |
+|     | Complete TryHackMe room: Exploiting Simple Buffer Overflows | 3 hours       | [ ]        |
+|     | Note-taking in preferred app                  | -             | [ ]        |
+
+
+
+### Day 8-14
+
+
 
 
