@@ -58,3 +58,11 @@ The eJPT preparation roadmap can help you prepare for the exam in 2 months. The 
 
 
 
+## Exam Preparation Checklist
+
+| Day | Tasks | Time Required | Completed |
+|-----|-------|---------------|------------|
+| 1   | - [ ] Review eJPT study material<br>- [ ] Complete TryHackMe room: Introduction to Network Security<br>- [ ] Read Chapter 1 of additional reading material (1.5 hours)<br>- [ ] Note-taking in preferred app | 2 hours | [ ] |
+| 2   | - [ ] Practice subnetting exercises (2.5 hours)<br>- [ ] Complete TryHackMe room: Basic Network Scan Techniques (4 hours)<br>- [ ] Read Chapter 2 of additional reading material (1.5 hours)<br>- [ ] Note-taking in preferred app | 2.5 hours | [ ] |
+| 3   | - [ ] Explore eJPT labs (2 hours)<br>- [ ] Complete TryHackMe room: Web Application Security Fundamentals (3.5 hours)<br>- [ ] Read Chapter 3 of additional reading material (2 hours)<br>- [ ] Note-taking in preferred app | 2 hours | [ ] |
+| 4   | - [ ] Mock exam simulation (4 hours)<br>- [ ] Review incorrect answers and study weak areas (2.5 hours)<br>- [ ] Complete TryHackMe room: Exploiting Simple Buffer Overflows (3 hours)<br>- [ ] Note-taking in preferred app | 4 hours | [ ] |
