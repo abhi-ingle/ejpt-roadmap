@@ -45,8 +45,7 @@ The eJPT preparation roadmap can help you prepare for the exam in 2 months. The 
 | Planned Content | Task                                               | Completed |
 | --------------- | -------------------------------------------------- | --------- |
 | Penetration Testing Student Course             | Assessment Methodologies - Enumeration   | [ ]       |
-| Tryhackme       |  [Hydra](https://tryhackme.com/room/hydra)| [ ]       |
-|        |  [Nmap Post Port Scan](https://tryhackme.com/room/nmap04)| [ ]       |
+| Tryhackme |  [Nmap Post Port Scan](https://tryhackme.com/room/nmap04)| [ ]       |
 |        |  [Network Services](https://tryhackme.com/room/networkservices)| [ ]       |
 |  Blogs   |  [Enumerating a new network with Nmap](https://www.redhat.com/sysadmin/enumerating-network-nmap)| [ ]       |
 |        |  [Enumeration guide for beginners](https://www.hackercoolmagazine.com/enumeration-guide-for-beginners/)| [ ]       |
@@ -124,7 +123,7 @@ The eJPT preparation roadmap can help you prepare for the exam in 2 months. The 
 | --------------- | -------------------------------------------------- | --------- |
 | Penetration Testing Student Course             | Host & Network Penetration Testing: Exploitation   | [ ]       |
 | TryHackMe | [What the Shell?](https://tryhackme.com/room/introtoshells)   | [ ]       |
-|  | [Stell Mountain](https://tryhackme.com/room/steelmountain)   | [ ]       |
+|  | [Steel Mountain](https://tryhackme.com/room/steelmountain)   | [ ]       |
 |  | [Poster](https://tryhackme.com/room/poster) | [] |
 | Blogs | [Vulnerability Scanning with Metasploit](https://the-empire.systems/vulnerability-scanning-metasploit) | [] |
 |        |  [How to Use Searchsploit in Kali Linux?](https://bughacking.com/how-to-use-searchsploit-in-kali-linux/)| [ ]       |
@@ -158,6 +157,21 @@ The eJPT preparation roadmap can help you prepare for the exam in 2 months. The 
  
 
 
+## Week 8
 
+| Planned Content | Task                                               | Completed |
+| --------------- | -------------------------------------------------- | --------- |
+| Penetration Testing Student Course             | Host & Network Penetration Testing: Social Engineering   | [ ]       |
+|   | Web Application Penetration Testing: Introduction to the Web and HTTP   | [ ]       |
+| TryHackMe | [OWASP Top 10](https://tryhackme.com/room/owasptop10)   | [ ]       |
+|  | [Web Enumeration](https://tryhackme.com/room/webenumerationv2)   | [ ]       |
+|  | [SQLMAP](https://tryhackme.com/room/sqlmap) | [] |
+|  | [OWASP Juice Shop](https://tryhackme.com/room/owaspjuiceshop) | [] |
+|  | [Blog](https://tryhackme.com/room/blog)   | [ ]       |
+|  | [Vulnversity](https://tryhackme.com/room/vulnversity)   | [ ]       |
+|  | [Hydra](https://tryhackme.com/room/hydra)| [ ]       |
+| Blogs | [Gobuster Tutorial ](https://freecodecamp.org/news/gobuster-tutorial-find-hidden-directories-sub-domains-and-s3-buckets/)| [ ]       |
+|  | [The Ultimate SQLmap Tutorial: Master SQL Injection and Vulnerability Assessment!](https://medium.com/@cuncis/the-ultimate-sqlmap-tutorial-master-sql-injection-and-vulnerability-assessment-4babdc978e7d)| [ ]       |
+|  | [Web Server Scanning With Nikto – A Beginner's Guide](https://www.freecodecamp.org/news/an-introduction-to-web-server-scanning-with-nikto/a)| [ ]       |
 
 
