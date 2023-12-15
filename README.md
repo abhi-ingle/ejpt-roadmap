@@ -38,21 +38,24 @@ The eJPT preparation roadmap can help you prepare for the exam in 2 months. The 
 |                |  [Nmap](https://www.freecodecamp.org/news/what-is-nmap-and-how-to-use-it-a-tutorial-for-the-greatest-scanning-tool-of-all-time/)| [ ]       |
 
 
-
 <hr>
 
 ## Week 2
 
-Total Time Commitment: 
-
-| Planned Content | Task                                          | Time Required | Completed |
-|-----|-----------------------------------------------|---------------|------------|
-| PTS:  | Assessment Methodologies-Enumeration  | <This is left>        |[ ]        |
-|   TryHackme |   | <This is left>      | [ ]        |
-
-
-
-
+| Planned Content | Task                                               | Completed |
+| --------------- | -------------------------------------------------- | --------- |
+| Penetration Testing Student Course             | Assessment Methodologies - Enumeration   | [ ]       |
+| Tryhackme       |  [Hydra](https://tryhackme.com/room/hydra)| [ ]       |
+|        |  [Nmap Post Port Scan](https://tryhackme.com/room/nmap04)| [ ]       |
+|        |  [Network Services](https://tryhackme.com/room/networkservices)| [ ]       |
+|  Blogs   |  [Enumerating a new network with Nmap](https://www.redhat.com/sysadmin/enumerating-network-nmap)| [ ]       |
+|        |  [Enumeration guide for beginners](https://www.hackercoolmagazine.com/enumeration-guide-for-beginners/)| [ ]       |
+|        |  [Remote port and service enumeration – nmap](https://linuxconcept.com/remote-port-and-service-enumeration-nmap/)| [ ]       |
+|        |  [Enumerate SMB with Enum4linux & Smbclient](https://null-byte.wonderhowto.com/how-to/enumerate-smb-with-enum4linux-smbclient-0198049/)| [ ]       |
+|        |  [Scanning for SMB Vulnerabilities with enum4linux](https://infosecwriteups.com/scanning-for-smb-vulnerabilities-with-enum4linux-896f76d0c078)| [ ]       |
+|        |  [Nmap Scripts (NSE): The Key To Enhance Your Network Scans](https://securitytrails.com/blog/nmap-scripts-nse)| [ ]       |
+|        |  [Network Vulnerability and Scanning: Explanation of Nmap Script Engine (NSE) with Hands on Practice](https://koayyongcett.medium.com/lesson-11-network-vulnerability-and-scanning-explanation-of-nmap-script-engine-nse-with-hands-70a98311cae8)| [ ]       |
+|        |  [How to Use Hydra  to Hack Passwords – Penetration Testing Tutorial](https://www.freecodecamp.org/news/how-to-use-hydra-pentesting-tutorial/)| [ ]       |
 
 
 
