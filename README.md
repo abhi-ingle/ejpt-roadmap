@@ -66,7 +66,7 @@ The eJPT preparation roadmap can help you prepare for the exam in 2 months. The 
 | --------------- | -------------------------------------------------- | --------- |
 | Penetration Testing Student Course             | Assessment Methodologies - Vulnerability Assessment   | [ ]       |
 |  | Assessment Methodlogies - Auditing Fundamentals | [ ] |
-|  | Host & Network Penetration Testing - System/Host Based Attack (Complete around 50%-till windows part) Total duration-20h 29m  | [ ] |
+|  | Host & Network Penetration Testing - System/Host Based Attack (Complete till windows part) | [ ] |
 | Tryhackme       |  [Vulnerabilities 101](https://tryhackme.com/room/vulnerabilities101)| [ ]       |
 |        |  [Nessus](https://tryhackme.com/room/rpnessusredux)| [ ]       |
 |        |  [Windows Fundamentals 1](https://tryhackme.com/room/windowsfundamentals1xbx)| [ ]       |
@@ -99,8 +99,23 @@ The eJPT preparation roadmap can help you prepare for the exam in 2 months. The 
 | | [How to Use Wireshark: Comprehensive Tutorial + Tips](https://www.varonis.com/blog/how-to-use-wireshark) | [ ] |
 | | [How I use Wireshark](https://jvns.ca/blog/2018/06/19/what-i-use-wireshark-for/) | [ ] |
 
+<hr>
+
+## Week 5
+
+| Planned Content | Task                                               | Completed |
+| --------------- | -------------------------------------------------- | --------- |
+| Penetration Testing Student Course             | Host & Network Penetration Testing: The Metasploit Framework (MSF)   | [ ]       |
+| TryHackme | [Metasploit: Introduction](https://tryhackme.com/jr/metasploitintro) |[ ] |
+| | [Metasploit: Exploitation](https://tryhackme.com/jr/metasploitexploitation) |[ ] |
+| | [Metasploit: Meterpreter](https://tryhackme.com/jr/meterpreter) |[ ] |
+| | [HeartBleed](https://tryhackme.com/room/heartbleed) |[ ] |
+| | [Deja Vu](https://tryhackme.com/room/dejavu) |[ ] |
+| Blogs | [Metasploit Tutorial for Beginners – Basics to Advanced](https://nooblinux.com/metasploit-tutorial/) |[ ] |
+|  | [MSFVenom](https://medium.com/@mzainkh/msfvenom-b57267a5bd9d) |[ ] |
+|  | [MSF Venom Quick Guide](https://posts.slayerlabs.com/msfvenom-guide/) |[ ] |
+|  | [Use John the Ripper in Metasploit to Quickly Crack Windows Hashes](https://null-byte.wonderhowto.com/how-to/use-john-ripper-metasploit-quickly-crack-windows-hashes-0200322/) |[ ] |
+|  | [Armitage — A Tutorial](https://nier0x00.medium.com/armitage-a-tutorial-eaa87c37026d) |[ ] |
 
 
-
-
-
+<hr>
