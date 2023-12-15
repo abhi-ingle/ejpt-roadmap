@@ -187,8 +187,8 @@ This comprehensive checklist is designed for those completing the Penetration Te
 |   | Web Application Penetration Testing: Introduction to the Web and HTTP   | [ ]       |
 | TryHackMe | [OWASP Top 10](https://tryhackme.com/room/owasptop10)   | [ ]       |
 |  | [Web Enumeration](https://tryhackme.com/room/webenumerationv2)   | [ ]       |
-|  | [SQLMAP](https://tryhackme.com/room/sqlmap) | [] |
-|  | [OWASP Juice Shop](https://tryhackme.com/room/owaspjuiceshop) | [] |
+|  | [SQLMAP](https://tryhackme.com/room/sqlmap) | [ ] |
+|  | [OWASP Juice Shop](https://tryhackme.com/room/owaspjuiceshop) | [ ] |
 |  | [Blog](https://tryhackme.com/room/blog)   | [ ]       |
 |  | [Vulnversity](https://tryhackme.com/room/vulnversity)   | [ ]       |
 |  | [Hydra](https://tryhackme.com/room/hydra)| [ ]       |
