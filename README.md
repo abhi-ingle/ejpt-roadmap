@@ -207,7 +207,7 @@ This comprehensive checklist is designed for those completing the Penetration Te
 - [Cheatsheet by xalgord](https://github.com/xalgord/ejPTv2-Preparation)
 
 ## Ejpt Exam Experience
-- [Exam Experience by Pr0tag0nist ](https://www.youtube.com/watch?v=NIAj4VKr_AM&list=PLR6J_t8cpbRHpfKuBsv8i_EaeKcPTusdR&pp=iAQB) Jeremiah has an entire EJPTv2 series covering his entire preparation journey; make sure to check out the entire playlist.
+- [Exam Experience by Pr0tag0nist ](https://www.youtube.com/watch?v=NIAj4VKr_AM&list=PLR6J_t8cpbRHpfKuBsv8i_EaeKcPTusdR&pp=iAQB) - Jeremiah has an entire EJPTv2 series covering his entire preparation journey; make sure to check out the entire playlist.
 - [Exam Experience by PakCyberbot](https://youtu.be/2s8BYjXUjGA?si=8RF3cV2wZLCQPWAp)
 - [My eJPTv2.0 exam review by Siddhart Shree Kaushik](https://blog.killswitchx7.com/my-ejptv2-0-exam-review)
 - [eJPTv2 Success Unlocked: Strategies for Passing on Your First Try](https://www.youtube.com/watch?v=FnV3qjDiS9A)
