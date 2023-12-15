@@ -75,8 +75,7 @@ The eJPT preparation roadmap can help you prepare for the exam in 2 months. The 
 |        |  [What is a CVE?](https://www.redhat.com/en/topics/security/what-is-cve)| [ ]       |
 |        |  [Working with Exploits: Using Exploit-DB to find Exploits](https://www.hackers-arise.com/post/working-with-exploits-using-exploit-db-to-find-exploits)| [ ]       |
 |        |  [Attacking SMB via Metasploit and PSexec](https://michaelkoczwara.medium.com/attacking-smb-via-metasploit-and-psexec-734c7be88190)| [ ]       |
-|        |  [Privilege escalation on Windows: When you want it and when you don’t](https://delinea.com/blog/windows-privilege-escalation)| [ ]       |
-|        |  [Understanding Impersonation via Access Tokens](https://medium.com/securebit/understanding-impersonation-via-access-tokens-5e3e5946adb9/)| [ ]       |
+
 
 <hr>
 
@@ -125,7 +124,7 @@ The eJPT preparation roadmap can help you prepare for the exam in 2 months. The 
 | --------------- | -------------------------------------------------- | --------- |
 | Penetration Testing Student Course             | Host & Network Penetration Testing: Exploitation   | [ ]       |
 | TryHackMe | [What the Shell?](https://tryhackme.com/room/introtoshells)   | [ ]       |
-|  | [Stell Mountain?](https://tryhackme.com/room/steelmountain)   | [ ]       |
+|  | [Stell Mountain](https://tryhackme.com/room/steelmountain)   | [ ]       |
 |  | [Poster](https://tryhackme.com/room/poster) | [] |
 | Blogs | [Vulnerability Scanning with Metasploit](https://the-empire.systems/vulnerability-scanning-metasploit) | [] |
 |        |  [How to Use Searchsploit in Kali Linux?](https://bughacking.com/how-to-use-searchsploit-in-kali-linux/)| [ ]       |
@@ -134,8 +133,31 @@ The eJPT preparation roadmap can help you prepare for the exam in 2 months. The 
 |  | [Use MSFconsole's Generate Command to Obfuscate Payloads & Evade Antivirus Detection](https://null-byte.wonderhowto.com/how-to/use-msfconsoles-generate-command-obfuscate-payloads-evade-antivirus-detection-0187686/) | [] |
 
 
+## Week 7
 
+| Planned Content | Task                                               | Completed |
+| --------------- | -------------------------------------------------- | --------- |
+| Penetration Testing Student Course             | Host & Network Penetration Testing: Post-Exploitation   | [ ]       |
+| TryHackMe | [Windows PrivEsc](https://tryhackme.com/room/windows10privesc)   | [ ]       |
+| | [Windows Privilege Escalation](https://tryhackme.com/room/windowsprivesc20)   | [ ]       |
+| | [Windows PrivEsc Arena](https://tryhackme.com/room/windowsprivescarena)   | [ ]       |
+| | [Bypassing UAC](https://tryhackme.com/room/bypassinguac)   | [ ]       |
+| | [Credentials Harvesting](https://tryhackme.com/room/credharvesting)   | [ ]       |
+| | [Linux Local Enumeration](https://tryhackme.com/room/lle)   | [ ]       |
+| | [Linux PrivEsc](https://tryhackme.com/room/linuxprivesc)   | [ ]       |
+| | [Linux Privilege Escalation](https://tryhackme.com/room/linprivesc)   | [ ]       |
+| | [Linux PrivEsc Arena](https://tryhackme.com/room/linuxprivescarena)   | [ ]       |
+| | [Wreath](https://tryhackme.com/room/wreath)   | [ ]       |
+| Blogs  | [OCSP: FILE TRANSFER RECIPE FOR DELICIOUS POST EXPLOITATION](https://medium.com/@dr.spitfire/ocsp-file-transfer-recipe-for-delicious-post-exploitation-832331cffd9f)   | [ ]       |
+|| [Linux Privilege Escalation Techniques](https://viperone.gitbook.io/pentest-everything/everything/everything-linux/linux-privilege-escalation-techniques)   | [ ]       |
+| | [Privilege Escalation in Windows](https://infosecwriteups.com/privilege-escalation-in-windows-380bee3a2842)   | [ ]       |
+|        |  [Understanding Impersonation via Access Tokens](https://medium.com/securebit/understanding-impersonation-via-access-tokens-5e3e5946adb9/)| [ ]       |
+| | [Post Exploitation Technique -Pivoting](https://medium.com/@prithwishkumarpal/post-exploitation-technique-pivoting-dc688c400111)   | [ ]       |
+| | [How to Dump NTLM Hashes & Crack Windows Passwords](https://null-byte.wonderhowto.com/how-to/hacking-windows-10-dump-ntlm-hashes-crack-windows-passwords-0198268/)   | [ ]       |
+| | [Linux Gather Dump Password Hashes for Linux Systems - Metasploit](https://www.infosecmatter.com/metasploit-module-library/?mm=post/linux/gather/hashdump)   | [ ]       |
  
-       
-  
+
+
+
+
 
