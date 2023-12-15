@@ -66,8 +66,7 @@ The eJPT preparation roadmap can help you prepare for the exam in 2 months. The 
 | --------------- | -------------------------------------------------- | --------- |
 | Penetration Testing Student Course             | Assessment Methodologies - Vulnerability Assessment   | [ ]       |
 |  | Assessment Methodlogies - Auditing Fundamentals | [] |
-|  | Assessment Methodlogies - Auditing Fundamentals | [] |
-|  | Host & Network Penetration Testing - System/Host Based Attackd (Complete around 50%) Total duration-20h 29m  | [] |
+|  | Host & Network Penetration Testing - System/Host Based Attack (Complete around 50%-till windows part) Total duration-20h 29m  | [] |
 | Tryhackme       |  [Vulnerabilities 101](https://tryhackme.com/room/vulnerabilities101)| [ ]       |
 |        |  [Nessus](https://tryhackme.com/room/rpnessusredux)| [ ]       |
 |        |  [Windows Fundamentals 1](https://tryhackme.com/room/windowsfundamentals1xbx)| [ ]       |
