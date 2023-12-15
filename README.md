@@ -146,12 +146,12 @@ This comprehensive checklist is designed for those completing the Penetration Te
 | Penetration Testing Student Course             | Host & Network Penetration Testing: Exploitation   | [ ]       |
 | TryHackMe | [What the Shell?](https://tryhackme.com/room/introtoshells)   | [ ]       |
 |  | [Steel Mountain](https://tryhackme.com/room/steelmountain)   | [ ]       |
-|  | [Poster](https://tryhackme.com/room/poster) | [] |
-| Blogs | [Vulnerability Scanning with Metasploit](https://the-empire.systems/vulnerability-scanning-metasploit) | [] |
+|  | [Poster](https://tryhackme.com/room/poster) | [ ] |
+| Blogs | [Vulnerability Scanning with Metasploit](https://the-empire.systems/vulnerability-scanning-metasploit) | [ ] |
 |        |  [How to Use Searchsploit in Kali Linux?](https://bughacking.com/how-to-use-searchsploit-in-kali-linux/)| [ ]       |
-|  | [What are Web Shells?](https://www.geeksforgeeks.org/what-are-web-shells/) | [] |
-|  | [Reverse Shell vs Bind Shell](https://infosecwriteups.com/reverse-shell-vs-bind-shell-d5a1e80b6a6c) | [] |
-|  | [Use MSFconsole's Generate Command to Obfuscate Payloads & Evade Antivirus Detection](https://null-byte.wonderhowto.com/how-to/use-msfconsoles-generate-command-obfuscate-payloads-evade-antivirus-detection-0187686/) | [] |
+|  | [What are Web Shells?](https://www.geeksforgeeks.org/what-are-web-shells/) | [ ] |
+|  | [Reverse Shell vs Bind Shell](https://infosecwriteups.com/reverse-shell-vs-bind-shell-d5a1e80b6a6c) | [ ] |
+|  | [Use MSFconsole's Generate Command to Obfuscate Payloads & Evade Antivirus Detection](https://null-byte.wonderhowto.com/how-to/use-msfconsoles-generate-command-obfuscate-payloads-evade-antivirus-detection-0187686/) | [ ] |
 
 
 ## Week 7
