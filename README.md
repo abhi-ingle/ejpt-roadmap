@@ -1,10 +1,23 @@
 # Ejpt Roadmap
 
-The eJPT preparation roadmap can help you prepare for the exam in 2 months. The following study plan is based on eJPT study material, TryHackMe rooms (some rooms might require a voucher), and additional reading materials. I have assumed that during the preparation, one will commit 8-10 hours of daily study for 2 months. Note-taking is quite important, so make sure to take full advantage of note-taking apps of your liking. To learn about my study approach and the tools I used to improve my preparation, go through my eJPT exam experience blog below.
+## Table of Contents
+1. [Overview](#overview)
+2. [Exam Preparation Checklist](#exam-preparation-checklist)
+    - [Week 1](#week-1)
+    - [Week 2](#week-2)
+    - [Week 3](#week-3)
+    - [Week 4](#week-4)
+    - [Week 5](#week-5)
+    - [Week 6](#week-6)
+    - [Week 7](#week-7)
+    - [Week 8](#week-8)
+3. [Ejpt notes available online]()
 
+## Overview
 
-### My Exam Experience: link
+The eJPT preparation roadmap can help you prepare for the exam in 2 months. The following study plan is based on eJPT study material, TryHackMe rooms (some rooms might require a voucher), and additional reading materials. I have assumed that during the preparation, one will commit 8-10 hours of daily study for 2 months. Note-taking is quite important, so make sure to take full advantage of note-taking apps of your liking. 
 
+If you wish to include additional rooms, blogs, notes, or share your exam experience, feel free contribute to this roadmap.
 
 |                              |          |
 |----------------------------- |------    |
@@ -17,6 +30,15 @@ The eJPT preparation roadmap can help you prepare for the exam in 2 months. The 
 <hr>
 
 ## Exam Preparation Checklist
+
+This comprehensive checklist is designed for those completing the Penetration Testing Student course offered by INE, along with relevant TryHackMe rooms and reference blogs. Here are some key points to consider during your preparation:
+
+- Thoroughly review the PTS course content; it is comprehensive and sufficient for succeeding in the exam.
+- Seek assistance from alternative online resources if you encounter difficulty understanding any part of the PTS material; ensure that your concepts are clear.
+- Go through the labs provided in the PTS course at least twice—first while covering the material and again after completing the course.
+- Practice the TryHackMe labs mentioned in the checklist; they serve as valuable additional practice beyond the labs provided in the PTS course.
+- This checklist assumes a dedication of 8-10 hours per day for preparation. If it is not possible to allocate this much time or the time period seems too long, feel free to adjust your pace accordingly.
+
 
 <hr>
 
@@ -175,3 +197,11 @@ The eJPT preparation roadmap can help you prepare for the exam in 2 months. The 
 |  | [Web Server Scanning With Nikto – A Beginner's Guide](https://www.freecodecamp.org/news/an-introduction-to-web-server-scanning-with-nikto/a)| [ ]       |
 
 
+<hr>
+
+## Ejpt notes available online
+- [Notes by PakCyberbot](https://github.com/PakCyberbot/eJPTv2-Notes)
+- [Notes by NeilMadava](https://github.com/neilmadhava/EJPTv2-Notes?tab=readme-ov-file)
+- [Cheatsheet by seergiovks](https://sezioss-gitbook.gitbook.io/ejptv2cheatsheet/assessment-methodologies/assessment-methodologies)
+- [Cheatsheet by xalgord](https://github.com/xalgord/ejPTv2-Preparation)
+- [Notes by edi](https://github.com/edoardottt/eJPT-notes)
