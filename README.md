@@ -17,7 +17,7 @@
 
 The eJPT preparation roadmap can help you prepare for the exam in 2 months. The following study plan is based on eJPT study material, TryHackMe rooms (some rooms might require a voucher), and additional reading materials. I have assumed that during the preparation, one will commit 8-10 hours of daily study for 2 months. Note-taking is quite important, so make sure to take full advantage of note-taking apps of your liking. 
 
-If you wish to include additional rooms, blogs, notes, or share your exam experience, feel free contribute to this roadmap.
+***_If you wish to include additional rooms, blogs, notes, or share your exam experience, feel free contribute to this roadmap._***
 
 |                              |          |
 |----------------------------- |------    |
