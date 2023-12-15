@@ -58,9 +58,27 @@ The eJPT preparation roadmap can help you prepare for the exam in 2 months. The 
 |        |  [How to Use Hydra  to Hack Passwords – Penetration Testing Tutorial](https://www.freecodecamp.org/news/how-to-use-hydra-pentesting-tutorial/)| [ ]       |
 
 
+<hr>
+
+## Week 3
+
+| Planned Content | Task                                               | Completed |
+| --------------- | -------------------------------------------------- | --------- |
+| Penetration Testing Student Course             | Assessment Methodologies - Vulnerability Assessment   | [ ]       |
+|  | Assessment Methodlogies - Auditing Fundamentals | [] |
+|  | Assessment Methodlogies - Auditing Fundamentals | [] |
+|  | Host & Network Penetration Testing - System/Host Based Attackd (Complete around 50%) Total duration-20h 29m  | [] |
+| Tryhackme       |  [Vulnerabilities 101](https://tryhackme.com/room/vulnerabilities101)| [ ]       |
+|        |  [Nessus](https://tryhackme.com/room/rpnessusredux)| [ ]       |
+|        |  [Windows Fundamentals 1](https://tryhackme.com/room/windowsfundamentals1xbx)| [ ]       |
+|        |  [Windows Fundamentals 2](https://tryhackme.com/room/windowsfundamentals2x0x)| [ ]       |
+|  Blogs   |  [Vulnerability Research 101](https://www.rezilion.com/blog/vulnerability-research-101/)| [ ]       |
+|        |  [What is a CVE?](https://www.redhat.com/en/topics/security/what-is-cve)| [ ]       |
+|        |  [Working with Exploits: Using Exploit-DB to find Exploits](https://www.hackers-arise.com/post/working-with-exploits-using-exploit-db-to-find-exploits)| [ ]       |
+|        |  [How to Use Searchsploit in Kali Linux?](https://bughacking.com/how-to-use-searchsploit-in-kali-linux/)| [ ]       |
+|        |  [Understanding Impersonation via Access Tokens](https://medium.com/securebit/understanding-impersonation-via-access-tokens-5e3e5946adb9/)| [ ]       |
 
 
-
-
+<hr>
 
 
