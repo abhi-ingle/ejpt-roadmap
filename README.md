@@ -1,5 +1,7 @@
+<center>
 <img src="banner/ejpt_image.jpeg" alt="Ejpt Roadmap Logo" height=350>
 
+</center>
 <br>
 <hr>
 
