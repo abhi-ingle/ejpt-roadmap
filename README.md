@@ -74,7 +74,6 @@ The eJPT preparation roadmap can help you prepare for the exam in 2 months. The 
 |  Blogs   |  [Vulnerability Research 101](https://www.rezilion.com/blog/vulnerability-research-101/)| [ ]       |
 |        |  [What is a CVE?](https://www.redhat.com/en/topics/security/what-is-cve)| [ ]       |
 |        |  [Working with Exploits: Using Exploit-DB to find Exploits](https://www.hackers-arise.com/post/working-with-exploits-using-exploit-db-to-find-exploits)| [ ]       |
-|        |  [How to Use Searchsploit in Kali Linux?](https://bughacking.com/how-to-use-searchsploit-in-kali-linux/)| [ ]       |
 |        |  [Attacking SMB via Metasploit and PSexec](https://michaelkoczwara.medium.com/attacking-smb-via-metasploit-and-psexec-734c7be88190)| [ ]       |
 |        |  [Privilege escalation on Windows: When you want it and when you don’t](https://delinea.com/blog/windows-privilege-escalation)| [ ]       |
 |        |  [Understanding Impersonation via Access Tokens](https://medium.com/securebit/understanding-impersonation-via-access-tokens-5e3e5946adb9/)| [ ]       |
@@ -119,3 +118,24 @@ The eJPT preparation roadmap can help you prepare for the exam in 2 months. The 
 
 
 <hr>
+
+## Week 6
+
+| Planned Content | Task                                               | Completed |
+| --------------- | -------------------------------------------------- | --------- |
+| Penetration Testing Student Course             | Host & Network Penetration Testing: Exploitation   | [ ]       |
+| TryHackMe | [What the Shell?](https://tryhackme.com/room/introtoshells)   | [ ]       |
+|  | [Stell Mountain?](https://tryhackme.com/room/steelmountain)   | [ ]       |
+|  | [Poster](https://tryhackme.com/room/poster) | [] |
+| Blogs | [Vulnerability Scanning with Metasploit](https://the-empire.systems/vulnerability-scanning-metasploit) | [] |
+|        |  [How to Use Searchsploit in Kali Linux?](https://bughacking.com/how-to-use-searchsploit-in-kali-linux/)| [ ]       |
+|  | [What are Web Shells?](https://www.geeksforgeeks.org/what-are-web-shells/) | [] |
+|  | [Reverse Shell vs Bind Shell](https://infosecwriteups.com/reverse-shell-vs-bind-shell-d5a1e80b6a6c) | [] |
+|  | [Use MSFconsole's Generate Command to Obfuscate Payloads & Evade Antivirus Detection](https://null-byte.wonderhowto.com/how-to/use-msfconsoles-generate-command-obfuscate-payloads-evade-antivirus-detection-0187686/) | [] |
+
+
+
+ 
+       
+  
+
