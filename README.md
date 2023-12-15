@@ -1,3 +1,8 @@
+<img src="banner/ejpt_image.jpeg" alt="Ejpt Roadmap Logo"">
+
+<br>
+<hr>
+
 # Ejpt Roadmap
 
 ## Table of Contents
