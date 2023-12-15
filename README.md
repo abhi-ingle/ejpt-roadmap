@@ -1,4 +1,4 @@
-<img src="banner/ejpt_image.jpeg" alt="Ejpt Roadmap Logo"">
+<img src="banner/ejpt_image.jpeg" alt="Ejpt Roadmap Logo">
 
 <br>
 <hr>
