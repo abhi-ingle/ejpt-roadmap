@@ -65,8 +65,8 @@ The eJPT preparation roadmap can help you prepare for the exam in 2 months. The 
 | Planned Content | Task                                               | Completed |
 | --------------- | -------------------------------------------------- | --------- |
 | Penetration Testing Student Course             | Assessment Methodologies - Vulnerability Assessment   | [ ]       |
-|  | Assessment Methodlogies - Auditing Fundamentals | [] |
-|  | Host & Network Penetration Testing - System/Host Based Attack (Complete around 50%-till windows part) Total duration-20h 29m  | [] |
+|  | Assessment Methodlogies - Auditing Fundamentals | [ ] |
+|  | Host & Network Penetration Testing - System/Host Based Attack (Complete around 50%-till windows part) Total duration-20h 29m  | [ ] |
 | Tryhackme       |  [Vulnerabilities 101](https://tryhackme.com/room/vulnerabilities101)| [ ]       |
 |        |  [Nessus](https://tryhackme.com/room/rpnessusredux)| [ ]       |
 |        |  [Windows Fundamentals 1](https://tryhackme.com/room/windowsfundamentals1xbx)| [ ]       |
@@ -87,18 +87,18 @@ The eJPT preparation roadmap can help you prepare for the exam in 2 months. The 
 | Planned Content | Task                                               | Completed |
 | --------------- | -------------------------------------------------- | --------- |
 | Penetration Testing Student Course             | Host & Network Penetration Testing - System/Host Based Attack (Remaining part)   | [ ]       |
-|      | Host & Network Penetration Testing: Network-Based Attacks | [] | 
+|      | Host & Network Penetration Testing: Network-Based Attacks | [ ] | 
 | TryHackMe   |  [Blue](https://tryhackme.com/room/blue)| [ ]       |
 |    |  [Ice](https://tryhackme.com/room/ice)| [ ]       |
-|  |[Linux Strength Training](https://tryhackme.com/room/linuxstrengthtraining)|[]|
-| |[Linux Privilege Escalation](https://tryhackme.com/room/linprivesc)|[]|
-| |[Dirty Pipe: CVE-2022-0847](https://tryhackme.com/room/dirtypipe)|[]|
-| |[Wireshark: The Basics](https://tryhackme.com/room/wiresharkthebasics)| [] |
+|  |[Linux Strength Training](https://tryhackme.com/room/linuxstrengthtraining)|[ ]|
+| |[Linux Privilege Escalation](https://tryhackme.com/room/linprivesc)|[ ]|
+| |[Dirty Pipe: CVE-2022-0847](https://tryhackme.com/room/dirtypipe)|[ ] |
+| |[Wireshark: The Basics](https://tryhackme.com/room/wiresharkthebasics)| [ ] |
 |Blogs|[Privilege Escalation on Linux: When it’s good and when it’s a disaster (with examples)
-](https://delinea.com/blog/linux-privilege-escalation)|[]|
-| | [Tools analysis: linPEAS](https://blog.cyberethical.me/linpeas) | [] |
-| | [How to Use Wireshark: Comprehensive Tutorial + Tips](https://www.varonis.com/blog/how-to-use-wireshark) | [] |
-| | [How I use Wireshark](https://jvns.ca/blog/2018/06/19/what-i-use-wireshark-for/) | [] |
+](https://delinea.com/blog/linux-privilege-escalation)|[ ]|
+| | [Tools analysis: linPEAS](https://blog.cyberethical.me/linpeas) | [ ] |
+| | [How to Use Wireshark: Comprehensive Tutorial + Tips](https://www.varonis.com/blog/how-to-use-wireshark) | [ ] |
+| | [How I use Wireshark](https://jvns.ca/blog/2018/06/19/what-i-use-wireshark-for/) | [ ] |
 
 
 
