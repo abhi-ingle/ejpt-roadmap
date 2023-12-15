@@ -11,7 +11,8 @@
     - [Week 6](#week-6)
     - [Week 7](#week-7)
     - [Week 8](#week-8)
-3. [Ejpt notes available online]()
+3. [Ejpt notes available online](#ejpt-notes-available-online)
+4. [Ejpt Exam Experience](#ejpt-exam-experience)
 
 ## Overview
 
@@ -47,7 +48,7 @@ This comprehensive checklist is designed for those completing the Penetration Te
 | Planned Content | Task                                               | Completed |
 | --------------- | -------------------------------------------------- | --------- |
 | Penetration Testing Student Course             | Assessment Methodologies - Information Gathering   | [ ]       |
-|                | Assesment Methodologies - Footprinting and Scanning| [ ]       |
+|                | Assessment Methodologies - Footprinting and Scanning| [ ]       |
 | Tryhackme       |  [Hacker Methodology](https://tryhackme.com/room/hackermethodology)| [ ]       |
 |                |  [Intro To Research](https://tryhackme.com/room/introtoresearch)| [ ]       |
 |                |  [Passive Recon](https://tryhackme.com/room/passiverecon)| [ ]       |
@@ -215,3 +216,6 @@ This comprehensive checklist is designed for those completing the Penetration Te
 - [My Experience with the Free eJPTv2 Exam by PakCyberbot](https://systemweakness.com/my-experience-of-the-free-ejptv2-exam-609beddab405)
 - [eJPT v2 Review: Decoding the eLearn Security’s Junior Penetration Tester Certification](https://infosecwriteups.com/ejpt-v2-review-elearn-jpt-certification-423d7c940d9a)
 
+
+
+***_If you wish to include additional rooms, blogs, notes, or share your exam experience, feel free contribute to this roadmap._***
